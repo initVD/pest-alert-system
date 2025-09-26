@@ -18,3 +18,9 @@ A Django-based web application for farmers to report and track agricultural pest
     * Cloned repository to local machine.
     * Set up virtual environment and installed Django.
     * Created initial Django project (`pest_project`) and `alerts` app.
+
+**Date:** 2025-09-29
+* **Work Completed:**
+    * Created the database `Model` for Alerts.
+    * Ran `makemigrations` and `migrate` to create the database table.
+    * Registered the model with the Django admin and created a superuser.
