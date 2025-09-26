@@ -24,3 +24,9 @@ A Django-based web application for farmers to report and track agricultural pest
     * Created the database `Model` for Alerts.
     * Ran `makemigrations` and `migrate` to create the database table.
     * Registered the model with the Django admin and created a superuser.
+
+**Date:** 2025-09-30
+* **Work Completed:**
+    * Created a Django ModelForm for the Alert model.
+    * Updated the view to handle form submission (POST requests).
+    * Added the form to the homepage template.
